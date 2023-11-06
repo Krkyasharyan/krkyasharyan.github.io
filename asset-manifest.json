@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/krkyasharyan.github.io/static/css/main.e6c13ad2.css",
+    "main.js": "/krkyasharyan.github.io/static/js/main.658f1bfb.js",
+    "static/js/787.7da95b79.chunk.js": "/krkyasharyan.github.io/static/js/787.7da95b79.chunk.js",
+    "index.html": "/krkyasharyan.github.io/index.html",
+    "main.e6c13ad2.css.map": "/krkyasharyan.github.io/static/css/main.e6c13ad2.css.map",
+    "main.658f1bfb.js.map": "/krkyasharyan.github.io/static/js/main.658f1bfb.js.map",
+    "787.7da95b79.chunk.js.map": "/krkyasharyan.github.io/static/js/787.7da95b79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.658f1bfb.js"
+  ]
+}
